@@ -13,6 +13,6 @@ layout: page
 
 ## Contact me
 
-- [Telegram](t.me/rumialunnar)
+- [Telegram](https://t.me/rumialunnar)
 - [Email](mailto:rumialunnar@gmail.com)
 
