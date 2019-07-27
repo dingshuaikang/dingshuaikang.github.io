@@ -1,6 +1,6 @@
 ### This is my new [Blog](https://rumia.club) powered by [Jekyll](https://jekyllrb.com/)
 
-About this contents:
+About these contents:
 
 - Something boring
 - Something useful
