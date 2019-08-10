@@ -40,7 +40,7 @@ tags:
 
 ## episode3 Rachel，Jack and Ashley too
 
-  一开始女主侧脸猛一看真的像Scarlett Jonathon！![](/img/bm3.png)，这一集我感觉是一般的一集，在那个Ashley too被解锁之后我的第一反应竟然是怎么驱动问题。。。学傻了快。
+  一开始女主侧脸猛一看真的像Scarlett Johnson！![](/img/bm3.png)，这一集我感觉是一般的一集，在那个Ashley too被解锁之后我的第一反应竟然是怎么驱动问题。。。学傻了快。
 
 ---
 
