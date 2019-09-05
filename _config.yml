@@ -1,5 +1,5 @@
 # main text of home
-name: Rumia
+name: dingshuaikang
 bio: An over-fitting neural network
 
 # twitter summary info
@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://rumialunnar.github.io
+url: https://dingshuaikang.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ permalink: /:title/
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: rumialunnar
+github: dingshuaikang
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: rumialunnar
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: rumialunnar@gmail.com
+email: 3271214445@qq.com
 
 # authors:
 #     johndoe:
